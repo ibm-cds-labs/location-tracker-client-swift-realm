@@ -1,5 +1,7 @@
 # Location Tracker
 
+:no_entry_sign: This project is no longer maintained.
+
 The Location Tracker app is an iOS app developed in Swift to be used in conjunction with the [Location Tracker Server](https://github.com/ibm-cds-labs/location-tracker-server-nodejs) or the [Location Tracker Envoy Server](https://github.com/ibm-cds-labs/location-tracker-server-envoy).
 
 **Important Note**: This version of the Location Tracker app uses [Realm](https://realm.io/) as a local datastore and the experimental [CouchDBRealmSync library](https://github.com/ibm-cds-labs/couchdb-realm-sync-swift) to sync location information to the server.
